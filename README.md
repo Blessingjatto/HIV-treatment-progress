@@ -47,7 +47,9 @@ The targets state that, by 2025:
 | **3. Who Is Left Behind** | Which groups and which steps lag, and how certain are the estimates? | Group comparison (children, women, men), bottleneck chart (gap to 95), range estimates (Low/High), YoY change. |
 | **4. Data Notes** | How should the numbers be read? | Data source descriptions, definitions, cleaning rules, and analytical limitations. |
 
+
 <img width="1920" height="1080" alt="Regional gaps" src="https://github.com/user-attachments/assets/12d18b83-f568-4dc4-82f3-aa6ff7a5d6b3" />
+
 <img width="1920" height="1080" alt="Demographic gaps" src="https://github.com/user-attachments/assets/a4cfbca2-d00e-4da6-98d1-398d78d1a0db" />
 
 ---
